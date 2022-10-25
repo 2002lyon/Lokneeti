@@ -23,4 +23,3 @@ overlay.onclick = function() {
     links.classList.remove("sticky");
     overlay.classList.remove("sticky");
 }
-
